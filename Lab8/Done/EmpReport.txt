@@ -1,0 +1,660 @@
+
+                                             Employee Listing  May 25, 2022                                             
+                                                                                                                        
+First                Last                 Title                                                               Salary    
+-------------------- -------------------- ------------------------------------------------------------ -------------    
+ Ian H.              Adams                EXECUTIVE ASSISTANT                                                $45,000    
+ David P.            Agnew                DEPUTY DIRECTOR                                                    $93,840    
+ James               Albino               SENIOR PROGRAM MANAGER                                             $91,800    
+ Hilary J.           Alley                STAFF ASSISTANT                                                    $42,000    
+ Lucius L.           Amorsingh            SPECIAL ASSISTANT                                                  $56,092    
+ Amanda D.           Anderson             SPECIAL ASSISTANT TO THE CHIEF OF STAFF                            $60,000    
+ Charles D.          Anderson             POLICY ASSISTANT                                                   $51,000    
+ Kate E.             Andrias              SPECIAL ASSISTANT                                                 $130,500    
+ Russell M.          Anello               COUNSEL                                                            $66,300    
+ Jonathan D.         Asen                 SENIOR ANALYST                                                     $42,000    
+ Candice L.          Attili               ASSISTANT SHIFT LEADER                                             $58,511    
+ David M.            Axelrod              ASSISTANT TO THE PRESIDENT                                        $172,200    
+ Lindsay A.          Ayling               ANALYST                                                            $42,000    
+ Maude L.            Baggetto             STAFF ASSISTANT                                                    $42,000    
+                                                     COEN 178 Lab-8                                                     
+
+                                             Employee Listing  May 25, 2022                                             
+                                                                                                                        
+First                Last                 Title                                                               Salary    
+-------------------- -------------------- ------------------------------------------------------------ -------------    
+ Frederick J.        Baldassaro           COMMUNICATIONS DIRECTOR                                           $122,744    
+ Melody C.           Barnes               ASSISTANT TO THE PRESIDENT                                        $172,200    
+ Ian M.              Bassin               DEPUTY ASSOCIATE COUNSEL                                           $99,000    
+ Andrew J.           Bates                MEDIA MONITOR                                                      $42,000    
+ Nicholas T.         Bauer                ASSOCIATE DIRECTOR                                                 $55,000    
+ Robert F.           Bauer                ASSISTANT TO THE PRESIDENT                                        $172,200    
+ Bradley D.          Becnel               SPECIAL ASSISTANT                                                  $55,000    
+ Katherine J.        Bedingfield          DEPUTY DIRECTOR                                                    $90,000    
+ Diana H.            Beinart              SPECIAL ASSISTANT                                                 $130,500    
+ Lauren E.           Belive               LEGISLATIVE ASSISTANT                                              $45,000    
+ Emmett S.           Beliveau             DEPUTY ASSISTANT                                                  $130,000    
+ Sarah C.            Bernard              DIRECTOR                                                           $70,000    
+ Alaina C.           Beverly              ASSOCIATE DIRECTOR                                                 $71,400    
+ Rachana             Bhowmik              DIRECTOR                                                          $100,000    
+                                                     COEN 178 Lab-8                                                     
+
+                                             Employee Listing  May 25, 2022                                             
+                                                                                                                        
+First                Last                 Title                                                               Salary    
+-------------------- -------------------- ------------------------------------------------------------ -------------    
+ Mary U.             Binns                SPECIAL ASSISTANT                                                  $70,126    
+ Kristen S.          Birdsall             RESEARCHER                                                         $45,900    
+ Rachel I.           Bisi                 LEGISLATIVE ASSISTANT                                              $42,000    
+ Michael A.          Blake                DEPUTY ASSOCIATE DIRECTOR                                          $61,200    
+ Michael R.          Block                STAFF ASSISTANT                                                    $42,000    
+ Patricia H.         Blount               RECORDS MANAGEMENT ANALYST                                         $44,402    
+ Brian K.            Bond                 DEPUTY DIRECTOR OF PUBLIC ENGAGEMENT                               $93,840    
+ Natalie F.          Bookey-Baker         EXECUTIVE ASSISTANT                                                $45,000    
+ Katherine Y.        Branch               SPECIAL ASSISTANT                                                  $61,200    
+ John O.             Brennan              ASSISTANT TO THE PRESIDENT                                        $172,200    
+ Steven Y.           Bressler             CLEARANCE ADVISOR                                                 $148,510    
+ Anne P.             Brewer               EXECUTIVE ASSISTANT                                                $45,000    
+ Mary J.             Brooke               SUPERVISOR                                                         $89,033    
+ Elizabeth M.        Brown                ASSISTANT                                                         $172,200    
+                                                     COEN 178 Lab-8                                                     
+
+                                             Employee Listing  May 25, 2022                                             
+                                                                                                                        
+First                Last                 Title                                                               Salary    
+-------------------- -------------------- ------------------------------------------------------------ -------------    
+ Carol M.            Browner              ASSISTANT                                                         $172,200    
+ Amy J.              Brundage             ASSISTANT PRESS SECRETARY                                          $78,000    
+ Michael P.          Brush                SPECIAL ASSISTANT                                                  $56,100    
+ Howard W.           Buffett              POLICY ADVISOR                                                     $51,630    
+ Kendall C.          Burman               SPECIAL ASSISTANT                                                 $130,500    
+ Erinn J.            Burnough             DEPUTY DIRECTOR                                                    $66,300    
+ William A.          Burton               SPECIAL ASSISTANT                                                 $113,000    
+ Frances L.          Campbell             SUPERVISOR                                                        $100,904    
+ Grant E.            Campbell             ASSOCIATE DIRECTOR                                                 $45,900    
+ Nnaji-Semayi K.     Campbell             SENIOR ANALYST                                                     $42,000    
+ David R.            Campos               ANALYST                                                            $42,000    
+ Alejandra M.        Campoverdi           SPECIAL ASSISTANT                                                  $60,000    
+ Michael C.          Camu????ez           SPECIAL ASSISTANT                                                 $140,000    
+ Beverly D.          Canery               ASSISTANT SHIFT LEADER                                             $58,511    
+                                                     COEN 178 Lab-8                                                     
+
+                                             Employee Listing  May 25, 2022                                             
+                                                                                                                        
+First                Last                 Title                                                               Salary    
+-------------------- -------------------- ------------------------------------------------------------ -------------    
+ Meredith M.         Carden               STAFF ASSISTANT                                                    $42,000    
+ Rebecca A.          Cardwell             OPERATOR                                                           $43,656    
+ Ethan A.            Carrier              ETHICS ADVISOR                                                     $94,969    
+ Rhonda M.           Carter               SPECIAL ASSISTANT                                                  $57,000    
+ Laura M.            Castillo             ANALYST                                                            $42,000    
+ Samantha L.         Chaifetz             RESEARCHER                                                        $123,758    
+ Caroline M.         Chambers             DIRECTOR OF CONFIRMATIONS                                         $120,000    
+ Margaret C.         Chen                 SPECIAL ASSISTANT                                                       $0    
+ Reid H.             Cherlin              ASSISTANT PRESS SECRETARY                                          $78,000    
+ Anand               Chhabra              STAFF ASSISTANT                                                    $42,000    
+ Theodore A.         Chiodo               ASSISTANT STAFF SECRETARY                                          $60,000    
+ Jennifer C.         Cizner               DEPUTY CHIEF OF STAFF                                              $85,680    
+ Kay F.              Clarke               SHIFT LEADER                                                       $64,439    
+ Lilia H.            Claude               ASSISTANT SHIFT LEADER                                             $58,511    
+                                                     COEN 178 Lab-8                                                     
+
+                                             Employee Listing  May 25, 2022                                             
+                                                                                                                        
+First                Last                 Title                                                               Salary    
+-------------------- -------------------- ------------------------------------------------------------ -------------    
+ Kwesi A.            Cobbina              STAFF ASSISTANT                                                    $42,000    
+ Elizabeth S         Cohen                ASSOCIATE DIRECTOR                                                 $45,900    
+ Rebecca A.          Cokley               PRIORITY PLACEMENT DIRECTOR                                        $72,000    
+ Nicholas M.         Colvin               SPECIAL ASSISTANT                                                  $63,240    
+ Shasti K.           Conrad               STAFF ASSISTANT                                                    $42,000    
+ Tara C.             Corrigan             EXECUTIVE ASSISTANT                                                $45,000    
+ Martha B.           Coven                SPECIAL ASSISTANT                                                 $120,000    
+ Jeffrey S.          Crowley              DIRECTOR                                                          $102,000    
+ Danielle M.         Crutchfield          DEPUTY ASSISTANT                                                  $130,000    
+ Juan C.             Cuba                 STAFF ASSISTANT                                                    $42,000    
+ Martin E.           Cuellar              DEPUTY DIRECTOR                                                    $91,800    
+ Jason F.            Cunningham           RESEARCHER                                                         $64,548    
+ Vinson T.           Cunningham           ECONOMICS STAFF ASSISTANT                                          $42,000    
+ David J.            Cusack               SPECIAL ASSISTANT                                                 $102,000    
+                                                     COEN 178 Lab-8                                                     
+
+                                             Employee Listing  May 25, 2022                                             
+                                                                                                                        
+First                Last                 Title                                                               Salary    
+-------------------- -------------------- ------------------------------------------------------------ -------------    
+ Chase M.            Cushman              ASSOCIATE DIRECTOR OF SCHEDULING                                   $45,900    
+ Stephanie           Cutter               ASSISTANT TO THE PRESIDENT                                        $172,200    
+ Kareem A.           Dale                 SPECIAL ASSISTANT                                                  $61,200    
+ Karen L.            Dalheim              ETHICS ADVISOR                                                    $148,510    
+ Susan M.            Davies               DEPUTY ASSISTANT                                                  $158,500    
+ Christopher E.      Davis                SENIOR ANALYST                                                     $76,500    
+ Brian C.            Deese                SPECIAL ASSISTANT                                                 $130,500    
+ Brian K.            DeGuzman             OPERATOR                                                           $42,738    
+ Nancy-Ann Min       DeParle              COUNSELOR                                                         $158,500    
+ Mary B.             DeRosa               DEPUTY ASSISTANT                                                  $158,500    
+ Carrie S.           Devine               SPECIAL ASSISTANT                                                  $56,100    
+ Michael P.          Dillon               SPECIAL ASSISTANT                                                 $113,000    
+ Thomas E.           Donilon              ASSISTANT TO THE PRESIDENT                                        $172,200    
+ Michael W.          Donovan              ASSOCIATE DIRECTOR                                                 $45,900    
+                                                     COEN 178 Lab-8                                                     
+
+                                             Employee Listing  May 25, 2022                                             
+                                                                                                                        
+First                Last                 Title                                                               Salary    
+-------------------- -------------------- ------------------------------------------------------------ -------------    
+ William J.          Donovan              STAFF ASSISTANT                                                    $42,000    
+ Craig M.            Dorsett              ANALYST                                                            $42,000    
+ Derek R. B.         Douglas              SPECIAL ASSISTANT                                                 $120,000    
+ Philip C.           Droege               DIRECTOR OF RECORDS MANAGEMENT                                    $140,259    
+ Joshua P.           DuBois               SPECIAL ASSISTANT                                                 $100,000    
+ Lauren P.           Dunn                 POLICY ASSISTANT                                                   $50,000    
+ Deesha A.           Dyer                 ASSOCIATE DIRECTOR                                                 $45,000    
+ Corey A.            Ealons               DIRECTOR                                                           $79,560    
+ Joshua R.           Earnest              SPECIAL ASSISTANT                                                 $113,000    
+ Erin M.             Edgerton             NEW MEDIA ANALYST                                                  $89,033    
+ Anita J.            Edmonds              RECORDS MANAGEMENT ANALYST                                         $49,069    
+ Lisa W.             Edwards              DEPUTY ASSOCIATE                                                  $155,500    
+ Norman L.           Eisen                SPECIAL ASSISTANT                                                 $149,000    
+ Rahm I.             Emanuel              ASSISTANT TO THE PRESIDENT                                        $172,200    
+                                                     COEN 178 Lab-8                                                     
+
+                                             Employee Listing  May 25, 2022                                             
+                                                                                                                        
+First                Last                 Title                                                               Salary    
+-------------------- -------------------- ------------------------------------------------------------ -------------    
+ Felicia A.          Escobar              SENIOR POLICY ADVISOR                                              $90,000    
+ Zulima L.           Espinel              SPECIAL ASSISTANT                                                 $130,500    
+ Diana               Farrell              DEPUTY ASSISTANT                                                  $147,500    
+ Michael T.          Faulman              ADVANCE COORDINATOR                                                $42,000    
+ Jonathan E.         Favreau              ASSISTANT TO THE PRESIDENT                                        $172,200    
+ Sarah B.            Fenn                 STAFF ASSISTANT                                                    $42,000    
+ Micah F.            Fergenson            STAFF ASSISTANT                                                    $42,000    
+ Micaela J.          Fernandez            SPECIAL ASSISTANT                                                 $102,000    
+ Robin E.            Fernkas              POLICY ADVISOR                                                    $126,251    
+ Benjamin N.         Finkenbinder         ASSOCIATE DIRECTOR                                                 $45,900    
+ Shawn T.            Finlen               ASSISTANT DIRECTOR                                                 $50,000    
+ Daren H.            Firestone            DEPUTY ASSOCIATE                                                  $105,211    
+ Taylor R.           Fiscus               ASSOCIATE DIRECTOR                                                 $45,000    
+ Alan 0.             Fitts                DEPUTY DIRECTOR                                                    $61,200    
+                                                     COEN 178 Lab-8                                                     
+
+                                             Employee Listing  May 25, 2022                                             
+                                                                                                                        
+First                Last                 Title                                                               Salary    
+-------------------- -------------------- ------------------------------------------------------------ -------------    
+ Benjamin W.         Flatgard             ECONOMICS DIRECTOR                                                 $55,000    
+ Harrison A.         Ford                 SENIOR ANALYST                                                     $42,000    
+ April P.            Frank                STAFF ASSISTANT                                                    $42,000    
+ Adam P.             Frankel              SPECIAL ASSISTANT                                                 $100,000    
+ Myra B.             Freeman              MANAGEMENT ANALYST                                                 $73,917    
+ Jocelyn C.          Frye                 DEPUTY ASSISTANT                                                  $140,000    
+ Jason L.            Furman               DEPUTY ASSISTANT                                                  $147,500    
+ Peter T.            Gage                 POLICY ANALYST                                                     $94,969    
+ Kristin M.          Garcia               LEGISLATIVE ASSISTANT                                              $45,000    
+ Frederico C.        Gardaphe             ASSISTANT DIRECTOR                                                 $50,000    
+ Patrick H.          Gaspard              ASSISTANT TO THE PRESIDENT                                        $172,200    
+ Robert L.           Gibbs                ASSISTANT TO THE PRESIDENT                                        $172,200    
+ Jodi A.             Gillette             DEPUTY ASSOCIATE DIRECTOR                                          $71,400    
+ Harrison T.         Godfrey              LEGISLATIVE ASSISTANT                                              $42,000    
+                                                     COEN 178 Lab-8                                                     
+
+                                             Employee Listing  May 25, 2022                                             
+                                                                                                                        
+First                Last                 Title                                                               Salary    
+-------------------- -------------------- ------------------------------------------------------------ -------------    
+ David F.            Gomez                RESEARCHER                                                         $45,000    
+ Roberto J.          Gonzalez             SPECIAL ASSISTANT                                                 $114,000    
+ Jennifer            Goodman              DEPUTY DIRECTOR                                                    $63,240    
+ Mary B.             Goodman              SPECIAL ASSISTANT                                                 $130,500    
+ Graham D.           Gottlieb              STAFF ASSISTANT                                                   $42,000    
+ Michael J.          Gottlieb             SPECIAL ASSISTANT                                                 $114,000    
+ Heather C.          Gottry               ASSOCIATE COUNSEL                                                 $136,134    
+ Lottie B.           Graham               ASSISTANT SHIFT LEADER                                             $63,673    
+ Kathryn A.          Grant                ANALYST                                                            $42,000    
+ Danielle C.         Gray                 SPECIAL ASSISTANT                                                 $130,500    
+ Jason G.            Green                DEPUTY ASSOCIATE COUNSEL                                           $99,000    
+ Valerie E.          Green                SPECIAL ASSISTANT                                                 $113,000    
+ Andrei M.           Greenawalt           DEPUTY DIRECTOR                                                    $80,000    
+ Norman A.           Greene               DEPUTY DIRECTOR OF FINANCE                                         $66,300    
+                                                     COEN 178 Lab-8                                                     
+
+                                             Employee Listing  May 25, 2022                                             
+                                                                                                                        
+First                Last                 Title                                                               Salary    
+-------------------- -------------------- ------------------------------------------------------------ -------------    
+ Travis R.           Groth                STAFF ASSISTANT                                                    $42,840    
+ Abigail K.          Hable                EXECUTIVE ASSISTANT                                                $45,000    
+ Terry P.            Hanson               DOMESTIC STAFF ASSISTANT                                           $42,000    
+ Ryan M.             Harper               DOMESTIC DIRECTOR                                                  $56,100    
+ Kimberley D.        Harris               SPECIAL ASSISTANT                                                 $130,500    
+ Kevin R.            Harris               LEGISLATIVE ASSISTANT                                              $42,000    
+ Michael M.          Hash                 DEPUTY DIRECTOR                                                   $179,700    
+ Shilpa S.           Hegde                ANALYST                                                            $42,000    
+ James T.            Heimbach             SPECIAL ASSISTANT                                                 $130,500    
+ Margo E.            Hennigan             ASSOCIATE DIRECTOR                                                 $45,900    
+ Philip M.           Hernandez            STAFF ASSISTANT                                                    $42,000    
+ Natalie M.          Hiatt                OPERATOR                                                           $42,000    
+ Heather A.          Higginbottom         DEPUTY ASSISTANT                                                  $150,000    
+ Adam S.             Hitchcock            SPECIAL ASSISTANT                                                  $51,000    
+                                                     COEN 178 Lab-8                                                     
+
+                                             Employee Listing  May 25, 2022                                             
+                                                                                                                        
+First                Last                 Title                                                               Salary    
+-------------------- -------------------- ------------------------------------------------------------ -------------    
+ Vy T.               Hoang                RECORDS MANAGEMENT ANALYST                                         $44,402    
+ Katherine J.        Hogan                ASSOCIATE DIRECTOR                                                 $45,900    
+ Nancy D.            Hogan                DEPUTY ASSISTANT                                                  $145,000    
+ Marissa C.          Hopkins              SPECIAL ASSISTANT                                                  $60,000    
+ Michael A.          Hornsby              ASSISTANT DIRECTOR                                                 $66,300    
+ Caroline E.         Hughes               PRESS ASSISTANT                                                    $42,000    
+ Caitlin G.          Hurley               ASSISTANT STAFF SECRETARY                                          $60,000    
+ Sarah K.            Hurwitz              SPECIAL ASSISTANT                                                 $100,000    
+ Shinichi            Inouye               DIRECTOR OF SPECIALITY MEDIA                                       $78,000    
+ Mona K.             Jabbour              DEPUTY ASSOCIATE COUNSEL                                           $80,000    
+ Deilia A. L.        Jackson              DEPUTY ASSOCIATE DIRECTOR                                          $42,000    
+ Elizabeth J.        Jackson              RECORDS MANAGEMENT ANALYST                                         $37,983    
+ Theresa R.          Jackson              SHIFT LEADER                                                       $64,439    
+ Linda S.            Jamison              SPECIAL ASSISTANT                                                 $113,000    
+                                                     COEN 178 Lab-8                                                     
+
+                                             Employee Listing  May 25, 2022                                             
+                                                                                                                        
+First                Last                 Title                                                               Salary    
+-------------------- -------------------- ------------------------------------------------------------ -------------    
+ Valerie B.          Jarrett              SENIOR ADVISOR AND ASSISTANT                                      $172,200    
+ Kristen E.          Jarvis               SPECIAL ASSISTANT                                                  $51,000    
+ Elizabeth P.        Jarvis-Shean         SPECIAL ASSISTANT                                                 $100,000    
+ William O.          Jawando              DEPUTY ASSOCIATE DIRECTOR                                          $89,033    
+ Karine              Jean-Pierre          NORTHEAST POLITICAL DIRECTOR                                       $76,500    
+ Katherine B.        Johnson              PERSONAL AIDE TO THE PRESIDENT                                     $90,000    
+ Linda M.            Johnson              SHIFT LEADER                                                       $66,335    
+ Camille Y.          Johnston             SPECIAL ASSISTANT                                                 $102,000    
+ Crystal B.          Jones                ASSISTANT SUPERVISOR                                               $84,855    
+ Elizabeth A.        Jones                DIRECTOR OF WHITE HOUSE ADMINISTRATION                            $100,000    
+ James L.            Jones                NATIONAL SECURITY ADVISOR                                         $172,200    
+ Kristin T.          Jones                RESEARCH ASSOCIATE                                                 $42,000    
+ Bryan               Jung                 SPECIAL ASSISTANT TO THE DIRECTOR                                  $50,000    
+ Monika              Juska                ASSOCIATE DIRECTOR                                                 $45,000    
+                                                     COEN 178 Lab-8                                                     
+
+                                             Employee Listing  May 25, 2022                                             
+                                                                                                                        
+First                Last                 Title                                                               Salary    
+-------------------- -------------------- ------------------------------------------------------------ -------------    
+ David E.            Kalbaugh             DEPUTY EXECUTIVE CLERK                                            $129,758    
+ Katy A.             Kale                 SPECIAL ASSISTANT                                                 $130,500    
+ Chelsea J.          Kammerer             SPECIAL ASSISTANT                                                  $56,100    
+ Christopher D.      Kang                 SPECIAL ASSISTANT                                                 $130,500    
+ Eugene J.           Kang                 SPECIAL PROJECTS COORDINATOR                                       $48,095    
+ Cody S.             Keenan               PRESIDENTIAL SPEECHWRITER                                          $75,000    
+ Allison K.          Kelly                VETTER                                                             $45,000    
+ Joseph B.           Kennedy              STAFF ASSISTANT                                                    $42,000    
+ Sean D.             Kennedy              SPECIAL ASSISTANT                                                 $130,500    
+ Bradley J.          Kiley                ASSISTANT                                                         $162,900    
+ Anna S.             Kim                  ASSISTANT STAFF SECRETARY                                          $60,000    
+ Astri B.            Kimball              DEPUTY DIRECTOR                                                    $85,000    
+ Taeshonnda C.       King                 RECORDS MANAGEMENT ANALYST                                         $60,232    
+ Robert P.           Kocher               SPECIAL ASSISTANT                                                 $130,500    
+                                                     COEN 178 Lab-8                                                     
+
+                                             Employee Listing  May 25, 2022                                             
+                                                                                                                        
+First                Last                 Title                                                               Salary    
+-------------------- -------------------- ------------------------------------------------------------ -------------    
+ Katherine H.        Kochman              SCHEDULER FOR CHIEF OF STAFF                                       $45,000    
+ Lisa J.             Kohnke               DEPUTY DIRECTOR                                                    $60,000    
+ Madhuri             Kommareddi           ASSOCIATE STAFF SECRETARY                                          $71,400    
+ Lisa M.             Konwinski            DEPUTY ASSISTANT                                                  $158,500    
+ Stacy J.            Koo                  DEPUTY ASSOCIATE DIRECTOR                                          $55,000    
+ Douglas J.          Kramer               DEPUTY ASSOCIATE COUNSEL                                          $155,500    
+ Caroline D.         Krass                SPECIAL ASSISTANT TO THE PRESIDENT                                $130,500    
+ Jonathan I.         Kravis               SPECIAL ASSISTANT TO THE PRESIDENT T                              $130,500    
+ Pravin D.           Kumar                ASSISTANT COUNSEL                                                  $50,000    
+ Benjamin C.         LaBolt               ASSISTANT PRESS SECRETARY                                          $78,000    
+ Solomon D.          Lartey               RECORDS MANAGEMENT ANALYST                                         $56,092    
+ Anne K.             Larus                DEPUTY DIRECTOR                                                    $56,100    
+ Tyler A             Lechtenberg          DIRECTOR OF CORRESPONDENCE                                         $50,000    
+ Howli J.            Ledbetter            COORDINATOR                                                        $42,000    
+                                                     COEN 178 Lab-8                                                     
+
+                                             Employee Listing  May 25, 2022                                             
+                                                                                                                        
+First                Last                 Title                                                               Salary    
+-------------------- -------------------- ------------------------------------------------------------ -------------    
+ Gary S.             Lee                  LEGISLATIVE ASSISTANT                                              $42,000    
+ Jesse C.            Lee                  DIRECTOR OF ONLINE PROGRAMS                                        $71,400    
+ Daniella G.         Leger                SPECIAL ASSISTANT                                                 $102,000    
+ Matthew A.          Lehrich              REGIONAL COMMUNICATIONS DIRECTOR                                   $65,000    
+ Sofia I.            Leitner-Laserna      STAFF ASSISTANT                                                    $21,000    
+ Catherine M.        Lelyveld             DIRECTOR AND PRESS SECRETARY                                       $85,680    
+ Brandon D.          Lepow                SPECIAL ASSISTANT AND PRESS LEAD                                   $55,000    
+ Jeffrey B. W.       Lerner               SOUTHERN POLITICAL DIRECTOR                                        $76,500    
+ Eric P.             Lesser               SPECIAL ASSISTANT TO THE SENIOR ADVISOR                            $60,000    
+ Jacob C.            Levine               POLICY ANALYST                                                     $45,000    
+ Marne L.            Levine               SPECIAL ASSISTANT                                                 $130,500    
+ Jesse M.            Lewin                PRESS ASSISTANT                                                    $42,000    
+ Dana M.             Lewis                SPECIAL ASSISTANT                                                  $66,000    
+ Georgette T.        Lewis                COORDINATOR                                                        $45,000    
+                                                     COEN 178 Lab-8                                                     
+
+                                             Employee Listing  May 25, 2022                                             
+                                                                                                                        
+First                Last                 Title                                                               Salary    
+-------------------- -------------------- ------------------------------------------------------------ -------------    
+ Kevin S.            Lewis                PRESS ASSISTANT                                                    $42,000    
+ Darin R.            Lezotte              RECORDS MANAGEMENT ANALYST                                         $62,544    
+ Christopher         Liddell-Westefeld    ASSISTANT DIRECTOR                                                 $50,000    
+ Christopher J.      Liegel               RECORDS MANAGEMENT ANALYST                                         $37,826    
+ Catherine E.        Lillie               DIRECTOR OF PRESS ADVANCE                                          $70,000    
+ Noerena             Limon                STAFF ASSISTANT                                                    $42,000    
+ Mark W.             Lippert              DEPUTY ASSISTANT                                                  $147,500    
+ Joshua S.           Lipsky               ASSOCIATE DIRECTOR                                                 $45,000    
+ David A.            Lipton               SPECIAL ASSISTANT                                                 $149,000    
+ Emily M.            Loeb                 LEGISLATIVE COUNSEL                                                $60,000    
+ Seth A.             London               LEGISLATIVE ASSISTANT                                              $45,000    
+ Gregory             Lorjuste             ASSOCIATE DIRECTOR                                                 $45,900    
+ Reginald L.         Love                 SPECIAL ASSISTANT                                                 $102,000    
+ Timothy P.          Love                 POLICY DIRECTOR                                                   $179,700    
+                                                     COEN 178 Lab-8                                                     
+
+                                             Employee Listing  May 25, 2022                                             
+                                                                                                                        
+First                Last                 Title                                                               Salary    
+-------------------- -------------------- ------------------------------------------------------------ -------------    
+ Jonathan I.         Lovett               PRESIDENTIAL SPEECHWRITER                                          $75,000    
+ Christopher P.      Lu                   ASSISTANT TO THE PRESIDENT                                        $172,200    
+ Deatrice N.         Luck                 SPECIAL SERVICES OPERATOR                                          $43,860    
+ Anthony V.          Lynn                 COORDINATOR                                                        $45,000    
+ William B.          Mack                 DEPUTY ASSOCIATE COUNSEL                                           $80,000    
+ Erin E.             Mackey               DIRECTOR OF FINANCE                                                $66,300    
+ Shawn P.            Maher                DEPUTY ASSISTANT                                                  $158,500    
+ Alison J.           Markovitz            DEPUTY ASSOCIATE COUNSEL                                           $80,000    
+ Joanna G.           Martin               SPECIAL ASSISTANT                                                 $102,000    
+ Johanna M.          Maska                SPECIAL ASSISTANT                                                  $56,100    
+ Katherine           Massey               SENIOR POLICY DIRECTOR                                            $165,000    
+ Alyssa M.           Mastromonaco         ASSISTANT TO THE PRESIDENT                                        $172,200    
+ Philip C.           Mattson              SPECIAL ASSISTANT                                                  $60,232    
+ Samir S.            Mayekar              NATIONAL SECURITY DIRECTOR                                         $56,100    
+                                                     COEN 178 Lab-8                                                     
+
+                                             Employee Listing  May 25, 2022                                             
+                                                                                                                        
+First                Last                 Title                                                               Salary    
+-------------------- -------------------- ------------------------------------------------------------ -------------    
+ Jonathan D.         McBride              SPECIAL ASSISTANT                                                 $130,000    
+ Mary N.             McCarthy             POLICY ADVISOR                                                    $155,500    
+ William W.          McCathran            ASSISTANT EXECUTIVE CLERK                                         $106,839    
+ Denis R.            McDonough            DEPUTY ASSISTANT                                                  $147,500    
+ Patricia G.         McGinnis             ADVISOR                                                                 $0    
+ Shaun L.            McGrath              DEPUTY DIRECTOR                                                    $93,840    
+ MaryEllen C.        McGuire              SENIOR POLICY ADVISOR                                              $91,800    
+ Margaret T.         McLaughlin           SPECIAL ASSISTANT                                                 $120,000    
+ Melissa K.          McNeal               DIRECTOR                                                           $51,000    
+ Rodin A.            Mehrbani             DEPUTY ASSOCIATE COUNSEL                                           $80,000    
+ James A.            Messina              ASSISTANT TO THE PRESIDENT                                        $172,200    
+ Ryan D.             Metcalf              ANALYST                                                            $42,000    
+ Benjamin E.         Milakofsky           SPECIAL ASSISTANT                                                  $45,000    
+ Gregorio A.         Millett              SENIOR POLICY ADVISOR                                             $115,731    
+                                                     COEN 178 Lab-8                                                     
+
+                                             Employee Listing  May 25, 2022                                             
+                                                                                                                        
+First                Last                 Title                                                               Salary    
+-------------------- -------------------- ------------------------------------------------------------ -------------    
+ Chad L.             Millison             RECORDS MANAGEMENT ANALYST                                         $60,232    
+ Luis A.             Miranda              DIRECTOR OF HISPANIC MEDIA                                         $78,000    
+ Stephen S.          Moilanen             POLICY ANALYST                                                     $45,000    
+ Darron P.           Monteiro             DEPUTY ASSOCIATE DIRECTOR                                          $61,200    
+ Brian D.            Mosteller            PERSONAL AIDE TO THE PRESIDENT                                     $90,000    
+ Susannah R.         Mrazek               SENIOR ANALYST                                                     $42,000    
+ Lindsay E.          Mueller              DIRECTOR OF OPERATIONS                                             $66,300    
+ Cecilia             Mu????oz             DEPUTY ASSISTANT                                                  $153,500    
+ Moira K. M.         Muntz                DIRECTOR                                                           $66,300    
+ Katherine R.        Murtha               SENIOR VETTER                                                      $50,000    
+ Robert L.           Nabors               DEPUTY ASSISTANT                                                  $162,500    
+ Caitlin L.          Naidoff              EXECUTIVE ASSISTANT                                                $50,000    
+ Saumya N.           Narechania           ASSISTANT DIRECTOR                                                 $50,000    
+ Alison J.           Nathan               SPECIAL ASSISTANT                                                 $130,500    
+                                                     COEN 178 Lab-8                                                     
+
+                                             Employee Listing  May 25, 2022                                             
+                                                                                                                        
+First                Last                 Title                                                               Salary    
+-------------------- -------------------- ------------------------------------------------------------ -------------    
+ Wanda M.            Neiman               ASSISTANT                                                          $74,958    
+ Elizabeth W.        Nelson               ASSOCIATE DIRECTOR                                                 $45,900    
+ Venkateswar N.      Neralla              DIRECTOR                                                           $75,480    
+ Peter J.            Newell               DIRECTOR OF TRAVEL OFFICE                                          $71,400    
+ Alexander T. H.     Nguyen               ETHICS ADVISOR                                                    $102,829    
+ Pascal J.           Noel                 SENIOR POLICY ADVISOR                                              $59,160    
+ Mary G.             Northern             STAFF ASSISTANT                                                    $42,000    
+ Maria L.            Ocampo               LEGISLATIVE ASSISTANT                                              $42,000    
+ Joshua D.           Odintz               CHIEF TAX COUNSEL                                                 $155,500    
+ Carlos P.           Odio                 DEPUTY ASSOCIATE DIRECTOR                                          $56,100    
+ Mary F.             Offerman             DEPUTY ASSOCIATE DIRECTOR                                          $45,000    
+ James M.            Oleske               CHIEF OF STAFF                                                    $114,000    
+ Margaret C.         Olmos                DEPUTY DIRECTOR                                                    $65,000    
+ Elizabeth H.        Olson                DEPUTY DIRECTOR                                                    $76,500    
+                                                     COEN 178 Lab-8                                                     
+
+                                             Employee Listing  May 25, 2022                                             
+                                                                                                                        
+First                Last                 Title                                                               Salary    
+-------------------- -------------------- ------------------------------------------------------------ -------------    
+ Matthew M.          Onek                 SPECIAL ASSISTANT                                                 $110,000    
+ Michael R.          Ortiz                LEGISLATIVE ASSISTANT                                              $45,000    
+ John T.             Oxtoby               SPECIAL ASSISTANT                                                  $42,000    
+ Darienne M.         Page                 WEST WING RECEPTIONIST                                             $42,000    
+ Lauren R.           Paige                DIRECTOR                                                           $62,000    
+ Gregory J.          Papa                 SPECIAL ASSISTANT                                                 $130,500    
+ Nicholas W.         Papas                DIRECTOR                                                           $92,001    
+ Doris D.            Parker               ASSISTANT SUPERVISOR                                               $79,864    
+ Brian E.            Pate                 PRESIDENTIAL SUPPORT SPECIALIST                                    $46,745    
+ Joseph B.           Paulsen              DEPUTY DIRECTOR                                                    $56,100    
+ Alejandro           Perez                SPECIAL ASSISTANT                                                 $130,500    
+ Howard D.           Pfeiffer             ASSISTANT                                                         $172,200    
+ Shilpa              Phadke               DEPUTY DIRECTOR                                                    $80,000    
+ Desiree E.          Pipkins              RESEARCH ASSISTANT                                                 $50,000    
+                                                     COEN 178 Lab-8                                                     
+
+                                             Employee Listing  May 25, 2022                                             
+                                                                                                                        
+First                Last                 Title                                                               Salary    
+-------------------- -------------------- ------------------------------------------------------------ -------------    
+ Natalie R.          Pojman               EXECUTIVE ASSISTANT                                                $45,900    
+ David F.            Pope                 POLICY ASSISTANT                                                   $51,000    
+ Jamal A.            Pope                 STAFF ASSISTANT                                                    $42,000    
+ Zachary A.          Portilla              STAFF ASSISTANT                                                   $42,000    
+ Stacie M.           Posey                ANALYST                                                            $42,000    
+ Araz                Pourmorad            ASSOCIATE DIRECTOR                                                 $45,000    
+ Jennifer R.         Psaki                DEPUTY ASSISTANT                                                  $150,000    
+ Allison C.          Pulliam              STAFF ASSISTANT                                                    $42,000    
+ Brian P.            Quinn                ASSOCIATE DIRECTOR                                                 $45,000    
+ Paul S.             Raizk                DEPUTY DIRECTOR                                                   $113,605    
+ Nicholas S.         Rathod               DEPUTY ASSOCIATE DIRECTOR                                          $71,400    
+ Ian P.              Reed                 ASSOCIATE DIRECTOR                                                 $45,900    
+ Fiona O.            Reeves               SENIOR WRITER                                                      $51,000    
+ Joseph B.           Reinstein            DEPUTY DIRECTOR                                                    $66,300    
+                                                     COEN 178 Lab-8                                                     
+
+                                             Employee Listing  May 25, 2022                                             
+                                                                                                                        
+First                Last                 Title                                                               Salary    
+-------------------- -------------------- ------------------------------------------------------------ -------------    
+ Karen E.            Richardson           ASSOCIATE DIRECTOR                                                 $92,001    
+ Kathleen A.         Rittner              ETHICS ADVISOR                                                    $144,868    
+ Shirley C.          Rivadeneira          ENERGY TDIRECTOR                                                   $55,000    
+ Cynthia L.          Roach                SUPERVISOR                                                        $100,904    
+ Blake C.            Roberts              DEPUTY ASSOCIATE COUNSEL                                           $99,000    
+ Ian T.              Robertson            ANALYST                                                            $42,000    
+ Mary K.             Roche                SPEECHWRITER                                                       $60,000    
+ Gertrude A.         Roddick              SPECIAL ASSISTANT                                                  $89,846    
+ Roberto J.          Rodriguez            SPECIAL ASSISTANT TO THE PRESIDENT                                $120,000    
+ Gregory E.          Rosalsky             VETTER                                                             $45,000    
+ Peter M.            Rouse                ASSISTANT TO THE PRESIDENT                                        $172,200    
+ Kathryn H.          Ruemmler             DEPUTY ASSISTANT                                                  $158,500    
+ Michael L.          Ruemmler             SPECIAL ASSISTANT AND ADVANCE LEAD                                 $56,100    
+ Peter F.            Rundlet              DEPUTY ASSISTANT                                                  $158,500    
+                                                     COEN 178 Lab-8                                                     
+
+                                             Employee Listing  May 25, 2022                                             
+                                                                                                                        
+First                Last                 Title                                                               Salary    
+-------------------- -------------------- ------------------------------------------------------------ -------------    
+ Timothy J.          Ryan                 DIRECTOR OF TECHNOLOGY                                             $71,400    
+ Katelyn A.          Sabochik             DEPUTY DIRECTOR                                                    $62,500    
+ Rishi R.            Sahgal               DIRECTOR OF WHITE HOUSE PERSONNEL                                  $66,300    
+ Jonathan D.         Samuels              SPECIAL ASSISTANT                                                 $130,500    
+ Trooper             Sanders              DEPUTY DIRECTOR                                                    $85,000    
+ Laura G.            Santucci             DEPUTY REGIONAL POLITICAL DIRECTOR                                 $70,000    
+ Joan C.             Sass                 ASSISTANT SHIFT LEADER                                             $56,791    
+ Smrthi              Sathe                ASSOCIATE DIRECTOR                                                 $70,000    
+ George T.           Saunders             EXECUTIVE CLERK                                                   $155,500    
+ Ellie S.            Schafer              DIRECTOR OF VISITORS OFFICE                                        $71,400    
+ Matthew J.          Schaub               ANALYST                                                            $42,000    
+ Philip M.           Schiliro             ASSISTANT TO THE PRESIDENT                                        $172,200    
+ Robert E.           Schmuck              STAFF ASSISTANT                                                    $42,000    
+ Daniel J. T.        Schuker              POLICY ADVISOR                                                     $55,080    
+                                                     COEN 178 Lab-8                                                     
+
+                                             Employee Listing  May 25, 2022                                             
+                                                                                                                        
+First                Last                 Title                                                               Salary    
+-------------------- -------------------- ------------------------------------------------------------ -------------    
+ Kori S.             Schulman             ASSOCIATE DIRECTOR                                                 $48,450    
+ Alison K.           Schwartz             WESTERN POLITICAL DIRECTOR                                         $75,000    
+ Bradley W.          Setser               DIRECTOR                                                          $110,500    
+ Jennifer D.         Seymour              POLICY ADVISOR                                                    $107,770    
+ Sonal R.            Shah                 DEPUTY ASSISTANT                                                  $120,000    
+ Nicholas S.         Shapiro              ASSISTANT PRESS SECRETARY                                          $78,000    
+ Katherine           Shaw                 SPECIAL ASSISTANT                                                 $130,500    
+ Kristin J.          Sheehy               SPECIAL ASSISTANT                                                  $60,000    
+ Susan S.            Sher                 ASSISTANT TO THE PRESIDENT                                        $172,200    
+ Wendy W.            Showers              PRESIDENTIAL SUPPORT SPECIALIST                                    $84,855    
+ Sarah E.            Sibley               SENIOR WRITER                                                      $50,000    
+ Avra C.             Siegel               SPECIAL ASSISTANT                                                  $50,000    
+ David M.            Simas                DIRECTOR OF SPECIAL PROJECTS                                      $100,000    
+ Dana E.             Singiser             SPECIAL ASSISTANT                                                 $130,500    
+                                                     COEN 178 Lab-8                                                     
+
+                                             Employee Listing  May 25, 2022                                             
+                                                                                                                        
+First                Last                 Title                                                               Salary    
+-------------------- -------------------- ------------------------------------------------------------ -------------    
+ Manish              Sinha                OPERATIONS STAFF ASSISTANT                                         $42,000    
+ Mara L.             Sirbu                NATIONAL SECURITY STAFF ASSISTANT                                  $42,000    
+ Timothy R.          Skoczek              DEPUTY DIRECTOR OF RESPONSE                                        $45,000    
+ Elizabeth S.        Smith                DEPUTY ASSISTANT                                                  $130,000    
+ Jason J.            Smith                SENIOR ANALYST                                                     $42,000    
+ Kelley S.           Smith                SENIOR ANALYST                                                     $42,000    
+ Julianna S.         Smoot                DEPUTY ASSISTANT TO                                               $150,000    
+ Charlie J.          Sobel                DIRECTOR OF OPERATIONS                                             $55,000    
+ Jane C.             Spencer              MIDWEST POLITICAL DIRECTOR                                         $76,500    
+ Frances M.          Starkey              DIRECTOR                                                           $80,000    
+ Jeffrey M.          Stephens             DEPUTY DIRECTOR                                                    $75,000    
+ Semonti M.          Stephens             ASSOCIATE DIRECTOR                                                 $53,550    
+ Nicole T.           Stickel              SENIOR ANALYST                                                     $42,000    
+ Ivan                Stoev                ASSISTANT DIRECTOR                                                 $50,000    
+                                                     COEN 178 Lab-8                                                     
+
+                                             Employee Listing  May 25, 2022                                             
+                                                                                                                        
+First                Last                 Title                                                               Salary    
+-------------------- -------------------- ------------------------------------------------------------ -------------    
+ Wandra E.           Stone                SUPERVISOR OF SEARCH AND FILE                                     $112,774    
+ Shelly O.           Stoneman             SPECIAL ASSISTANT                                                 $130,500    
+ Jill A.             Stracko              ASSISTANT DIRECTOR                                                 $51,000    
+ Michael A.          Strautmanis          SPECIAL ASSISTANT                                                 $139,500    
+ Lawrence H.         Summers              ASSISTANT                                                         $172,200    
+ Mona K.             Sutphen              ASSISTANT                                                         $172,200    
+ Nikki E.            Sutton               ASSOCIATE DIRECTOR                                                 $47,500    
+ Gregory C.          Swanson              SENIOR ANALYST                                                     $42,000    
+ Sean F.             Sweeney              SPECIAL ASSISTANT                                                 $120,000    
+ Peter P.            Swire                SPECIAL ASSISTANT                                                 $130,500    
+ Nathanael P.        Tamarin              ASSOCIATE DIRECTOR                                                 $96,900    
+ Ashley R.           Tate-Gilmore         ASSOCIATE DIRECTOR AND TRAVEL MANAGER                              $45,900    
+ Christina M.        Tchen                DEPUTY ASSISTANT                                                  $153,500    
+ Kimberly K.         Teehee               SENIOR POLICY ADVISOR                                             $100,000    
+                                                     COEN 178 Lab-8                                                     
+
+                                             Employee Listing  May 25, 2022                                             
+                                                                                                                        
+First                Last                 Title                                                               Salary    
+-------------------- -------------------- ------------------------------------------------------------ -------------    
+ Angela N.           Tennison             STAFF ASSISTANT                                                    $42,000    
+ Louisa M.           Terrell              SPECIAL ASSISTANT TO THE PRESIDENT                                $130,500    
+ Joelle L.           Terry                DEPUTY DIRECTOR OF MESSAGE EVENTS                                  $65,000    
+ Maria A.            Thomas               STAFF ASSISTANT                                                    $42,000    
+ Lauren K.           Thorbjornsen         EXECUTIVE ASSISTANT                                                $45,000    
+ Gregory T.          Trainor              SPECIAL ASSISTANT                                                  $68,230    
+ Matthew A.          Tranchin             STAFF ASSISTANT                                                    $42,000    
+ Gannet L.           Tseggai              COMMUNICATIONS ADVISOR                                             $66,300    
+ Samantha J.         Tubman               DEPUTY ASSOCIATE DIRECTOR                                          $49,000    
+ Rosarie G.          Tucci                SENIOR WRITER                                                      $51,000    
+ Phyllis J.          Tucker               SUPERVISOR OF COMPUTER ADMINISTRATION                              $89,033    
+ Andrea E.           Turk                 DIRECTOR OF INFORMATION SERVICES                                   $50,000    
+ Daniel A.           Turton               DEPUTY ASSISTANT TO THE PRESIDENT                                 $158,500    
+ Daniel G.           Utech                ADVISOR                                                           $130,000    
+                                                     COEN 178 Lab-8                                                     
+
+                                             Employee Listing  May 25, 2022                                             
+                                                                                                                        
+First                Last                 Title                                                               Salary    
+-------------------- -------------------- ------------------------------------------------------------ -------------    
+ Elizabeth A.        Vale                 WHITE HOUSE BUSINESS LIAISON                                      $132,009    
+ Stephanie M.        Valencia             DEPUTY ASSOCIATE DIRECTOR                                          $61,200    
+ Mara L.             Vanderslice          POLICY ADVISOR                                                     $92,001    
+ Dagoberto           Vega                 SPECIAL ASSISTANT                                                 $100,000    
+ Donald B.           Verrilli             DEPUTY ASSISTANT                                                  $158,500    
+ Thomas F.           Vietor               ASSISTANT PRESS SECRETARY                                          $78,000    
+ Matthew A.          Vogel                ASSOCIATE DIRECTOR                                                 $71,400    
+ David A.            Voorman              RECORDS MANAGEMENT ANALYST                                         $45,594    
+ David L.            Wade                 ASSOCIATE DIRECTOR                                                 $55,000    
+ Frances J.          Wade                 RECORDS MANAGEMENT ANALYST                                         $44,402    
+ Joan L.             Walsh                ASSISTANT STAFF SECRETARY                                          $60,000    
+ Adam                Wang-Levine          POLICY ADVISOR                                                     $55,080    
+ Kyle D.             Watkins              SPECIAL ASSISTANT                                                  $45,000    
+ Takesha R.          Watson               SPECIAL SERVICES OPERATOR                                          $43,860    
+                                                     COEN 178 Lab-8                                                     
+
+                                             Employee Listing  May 25, 2022                                             
+                                                                                                                        
+First                Last                 Title                                                               Salary    
+-------------------- -------------------- ------------------------------------------------------------ -------------    
+ Michael R.          Wear                 EXECUTIVE ASSISTANT                                                $45,900    
+ Meridith A.         Webster              SPECIAL ASSISTANT                                                 $120,000    
+ Philip J.           Weiser               SENIOR ADVISOR                                                    $172,000    
+ Cleo                White                ANALYST                                                            $65,393    
+ Patrick M.          Whitty               EXECUTIVE ASSISTANT                                                $45,000    
+ Marie J.            Williams             BOARDS  DIRECTOR                                                   $55,000    
+ Sherman A.          Williams             ASSISTANT                                                          $74,958    
+ Denise R.           Wilson               SPECIAL ASSISTANT                                                 $130,500    
+ Samuel A.           Wilson               DEPUTY DIRECTOR                                                    $45,000    
+ Melissa             Winter               SPECIAL ASSISTANT                                                 $102,000    
+ Abigail             Witt                 SPECIAL ASSISTANT                                                  $45,000    
+ Shale L.            Wong                 POLICY ADVISOR                                                          $0    
+ Jessica N.          Wright               DEPUTY DIRECTOR                                                    $96,900    
+ Jennifer F.         Yeager Kaplan        SPECIAL ASSISTANT                                                  $66,300    
+                                                     COEN 178 Lab-8                                                     
+
+                                             Employee Listing  May 25, 2022                                             
+                                                                                                                        
+First                Last                 Title                                                               Salary    
+-------------------- -------------------- ------------------------------------------------------------ -------------    
+ Katherine H.        Young                STAFF ASSISTANT                                                    $42,000    
+ Latoya A.           Young                RECORDS MANAGEMENT ANALYST                                         $58,511    
+ Allison L.          Zelman               POLICY ASSISTANT                                                   $50,000    
+ Heather R.          Zichal               DEPUTY ASSISTANT                                                  $100,000    
+
+
+
+
+
+
+
+
+
+
+                                                     COEN 178 Lab-8                                                     

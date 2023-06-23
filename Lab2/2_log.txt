@@ -1,0 +1,455 @@
+SQL> -- Part 1)
+SQL> start/home/cpaiz/COEN178/labs/lab2/2_1.sql
+SQL> -- a) Create Customer Table
+SQL> CREATE TABLE Customer (
+  2  	 custid VARCHAR(5),
+  3  	 firstname VARCHAR(10),
+  4  	 lastname VARCHAR(15),
+  5  	 city VARCHAR(10),
+  6  	 PRIMARY KEY(custid)
+  7  );
+
+Table created.
+
+SQL> 
+SQL> -- b) Create DeliveryService Table
+SQL> CREATE TABLE DeliveryService (
+  2  	 serviceid VARCHAR(10),
+  3  	 item CHAR(15),
+  4  	 location VARCHAR(15),
+  5  	 servicefee NUMBER(5, 2),
+  6  	 PRIMARY KEY(serviceid)
+  7  );
+
+Table created.
+
+SQL> 
+SQL> -- c) Create Schedule Table
+SQL> CREATE TABLE Schedule (
+  2  	 serviceid VARCHAR(10),
+  3  	 custid VARCHAR(5),
+  4  	 day VARCHAR(2) NOT NULL CHECK(day='m' OR day='t' OR day='w' OR day='r' OR day='f'),
+  5  	 FOREIGN KEY(serviceid) REFERENCES DeliveryService(serviceid),
+  6  	 FOREIGN KEY(custid) REFERENCES Customer(custid)
+  7  );
+
+Table created.
+
+SQL> 
+SQL> -- Insert Tuples into Customer Table
+SQL> INSERT INTO Customer VALUES (
+  2  	 'c1', 'John', 'Smith', 'SJ'
+  3  );
+
+1 row created.
+
+SQL> 
+SQL> INSERT INTO Customer VALUES (
+  2  	 'c2', 'Mary', 'Jones', 'SFO'
+  3  );
+
+1 row created.
+
+SQL> 
+SQL> INSERT INTO Customer VALUES (
+  2  	 'a1', 'Vincent', 'Chen', 'SJ'
+  3  );
+
+1 row created.
+
+SQL> 
+SQL> INSERT INTO Customer VALUES (
+  2  	 'a12', 'Greg', 'King', 'SJ'
+  3  );
+
+1 row created.
+
+SQL> 
+SQL> INSERT INTO Customer VALUES (
+  2  	 'c7', 'James', 'Bond', 'LA'
+  3  );
+
+1 row created.
+
+SQL> 
+SQL> INSERT INTO Customer VALUES (
+  2  	 'x10', 'Susan', 'Blogg', 'SFO'
+  3  );
+
+1 row created.
+
+SQL> 
+SQL> INSERT INTO Customer VALUES (
+  2  	 'y10', 'Sam', 'Weick', 'SD'
+  3  );
+
+1 row created.
+
+SQL> 
+SQL> INSERT INTO Customer VALUES (
+  2  	 'z10', 'Rob', 'Cady', 'SJ'
+  3  );
+
+1 row created.
+
+SQL> 
+SQL> INSERT INTO Customer VALUES (
+  2  	 'k1', 'Kyle', 'Lam', 'SJ'
+  3  );
+
+1 row created.
+
+SQL> 
+SQL> -- Insert Tuples into DeliveryService Table
+SQL> INSERT INTO DeliveryService VALUES (
+  2  	 'dsg1','grocery','SJ',25.0
+  3  );
+
+1 row created.
+
+SQL> 
+SQL> INSERT INTO DeliveryService VALUES (
+  2  	 'dsb1','books','SJ',10.0
+  3  );
+
+1 row created.
+
+SQL> 
+SQL> INSERT INTO DeliveryService VALUES (
+  2  	 'dsm2','movies','LA',10.0
+  3  );
+
+1 row created.
+
+SQL> 
+SQL> INSERT INTO DeliveryService VALUES (
+  2  	 'dby3','babygoods','SFO',15.0
+  3  );
+
+1 row created.
+
+SQL> 
+SQL> INSERT INTO DeliveryService VALUES (
+  2  	 'dsg2','grocery','SFO',20.0
+  3  );
+
+1 row created.
+
+SQL> 
+SQL> INSERT INTO DeliveryService VALUES (
+  2  	 'dg5','greengoods','SFO',30.0
+  3  );
+
+1 row created.
+
+SQL> 
+SQL> INSERT INTO DeliveryService VALUES (
+  2  	 'dg6','greengoods','SJ',20.0
+  3  );
+
+1 row created.
+
+SQL> 
+SQL> INSERT INTO DeliveryService VALUES (
+  2  	 'dsg3','grocery','SFO',20.0
+  3  );
+
+1 row created.
+
+SQL> 
+SQL> -- Insert Tuples into Schedule Table
+SQL> INSERT INTO Schedule VALUES (
+  2  	 'dsg1','c1','m'
+  3  );
+
+1 row created.
+
+SQL> 
+SQL> INSERT INTO Schedule VALUES (
+  2  	 'dsg1','a12','w'
+  3  );
+
+1 row created.
+
+SQL> 
+SQL> INSERT INTO Schedule VALUES (
+  2  	 'dby3','x10','f'
+  3  );
+
+1 row created.
+
+SQL> 
+SQL> INSERT INTO Schedule VALUES (
+  2  	 'dg5','c1','r'
+  3  );
+
+1 row created.
+
+SQL> 
+SQL> INSERT INTO Schedule VALUES (
+  2  	 'dg5','c1','t'
+  3  );
+
+1 row created.
+
+SQL> 
+SQL> INSERT INTO Schedule VALUES (
+  2  	 'dg5','c32','t'
+  3  );
+INSERT INTO Schedule VALUES (
+*
+ERROR at line 1:
+ORA-02291: integrity constraint (CPAIZ.SYS_C00961885) violated - parent key not 
+found 
+
+
+SQL> 
+SQL> INSERT INTO Schedule VALUES (
+  2  	 'dsg2','c1','s'
+  3  );
+INSERT INTO Schedule VALUES (
+*
+ERROR at line 1:
+ORA-02290: check constraint (CPAIZ.SYS_C00961883) violated 
+
+
+SQL> 
+SQL> INSERT INTO Schedule VALUES (
+  2  	 'dg0','c1','m'
+  3  );
+INSERT INTO Schedule VALUES (
+*
+ERROR at line 1:
+ORA-02291: integrity constraint (CPAIZ.SYS_C00961884) violated - parent key not 
+found 
+
+
+SQL> -- Part 2)
+SQL> start/home/cpaiz/COEN178/labs/lab2/2_2.sql
+SQL> -- a) Show all data in Customer Table
+SQL> SELECT * FROM Customer;
+
+CUSTI FIRSTNAME  LASTNAME        CITY                                           
+----- ---------- --------------- ----------                                     
+c1    John       Smith           SJ                                             
+c2    Mary       Jones           SFO                                            
+a1    Vincent    Chen            SJ                                             
+a12   Greg       King            SJ                                             
+c7    James      Bond            LA                                             
+x10   Susan      Blogg           SFO                                            
+y10   Sam        Weick           SD                                             
+z10   Rob        Cady            SJ                                             
+k1    Kyle       Lam             SJ                                             
+
+9 rows selected.
+
+SQL> 
+SQL> -- b) Show all data in DeliveryService Table
+SQL> SELECT * FROM DeliveryService;
+
+SERVICEID  ITEM            LOCATION        SERVICEFEE                           
+---------- --------------- --------------- ----------                           
+dsg1       grocery         SJ                      25                           
+dsb1       books           SJ                      10                           
+dsm2       movies          LA                      10                           
+dby3       babygoods       SFO                     15                           
+dsg2       grocery         SFO                     20                           
+dg5        greengoods      SFO                     30                           
+dg6        greengoods      SJ                      20                           
+dsg3       grocery         SFO                     20                           
+
+8 rows selected.
+
+SQL> 
+SQL> -- c) Show all data in Schedule Table
+SQL> SELECT * FROM Schedule;
+
+SERVICEID  CUSTI DA                                                             
+---------- ----- --                                                             
+dsg1       c1    m                                                              
+dsg1       a12   w                                                              
+dby3       x10   f                                                              
+dg5        c1    r                                                              
+dg5        c1    t                                                              
+
+SQL> 
+SQL> -- d)
+SQL> SELECT custid, firstname || lastname AS fullname, city
+  2  	 FROM Customer;
+
+CUSTI FULLNAME                  CITY                                            
+----- ------------------------- ----------                                      
+c1    JohnSmith                 SJ                                              
+c2    MaryJones                 SFO                                             
+a1    VincentChen               SJ                                              
+a12   GregKing                  SJ                                              
+c7    JamesBond                 LA                                              
+x10   SusanBlogg                SFO                                             
+y10   SamWeick                  SD                                              
+z10   RobCady                   SJ                                              
+k1    KyleLam                   SJ                                              
+
+9 rows selected.
+
+SQL> 
+SQL> -- e)
+SQL> SELECT * FROM Customer
+  2  	 ORDER BY lastname;
+
+CUSTI FIRSTNAME  LASTNAME        CITY                                           
+----- ---------- --------------- ----------                                     
+x10   Susan      Blogg           SFO                                            
+c7    James      Bond            LA                                             
+z10   Rob        Cady            SJ                                             
+a1    Vincent    Chen            SJ                                             
+c2    Mary       Jones           SFO                                            
+a12   Greg       King            SJ                                             
+k1    Kyle       Lam             SJ                                             
+c1    John       Smith           SJ                                             
+y10   Sam        Weick           SD                                             
+
+9 rows selected.
+
+SQL> 
+SQL> -- f)
+SQL> SELECT * FROM Schedule
+  2  	 ORDER BY serviceid, custid DESC;
+
+SERVICEID  CUSTI DA                                                             
+---------- ----- --                                                             
+dby3       x10   f                                                              
+dg5        c1    t                                                              
+dg5        c1    r                                                              
+dsg1       c1    m                                                              
+dsg1       a12   w                                                              
+
+SQL> 
+SQL> -- g)
+SQL> SELECT serviceid FROM DeliveryService
+  2  	 WHERE serviceid NOT IN (SELECT serviceid FROM schedule);
+
+SERVICEID                                                                       
+----------                                                                      
+dsg2                                                                            
+dsm2                                                                            
+dg6                                                                             
+dsg3                                                                            
+dsb1                                                                            
+
+SQL> 
+SQL> -- h)
+SQL> SELECT firstname FROM Customer, Schedule
+  2  	 WHERE day = 'M';
+
+no rows selected
+
+SQL> 
+SQL> SELECT firstname
+  2  	 FROM Customer
+  3  	 JOIN Schedule
+  4  	 ON Customer.custid = Schedule.custid
+  5  	 WHERE day = 'm';
+
+FIRSTNAME                                                                       
+----------                                                                      
+John                                                                            
+
+SQL> 
+SQL> -- i)
+SQL> SELECT lastname
+  2  	 FROM Customer
+  3  	 JOIN Schedule
+  4  	 ON Customer.custid = Schedule.custid;
+
+LASTNAME                                                                        
+---------------                                                                 
+Smith                                                                           
+Smith                                                                           
+Smith                                                                           
+King                                                                            
+Blogg                                                                           
+
+SQL> 
+SQL> -- j)
+SQL> SELECT MAX(servicefee) AS highest_ServiceFee
+  2  	 FROM DeliveryService;
+
+HIGHEST_SERVICEFEE                                                              
+------------------                                                              
+                30                                                              
+
+SQL> 
+SQL> -- k)
+SQL> SELECT COUNT(*) FROM Schedule
+  2  	 GROUP BY(day);
+
+  COUNT(*)                                                                      
+----------                                                                      
+         1                                                                      
+         1                                                                      
+         1                                                                      
+         1                                                                      
+         1                                                                      
+
+SQL> 
+SQL> SELECT DISTINCT A.custid, B.custid, A.city
+  2  	 FROM Customer A, Customer b
+  3  	 WHERE A.city = B.city
+  4  	 AND A.custid != B.custid;
+
+CUSTI CUSTI CITY                                                                
+----- ----- ----------                                                          
+k1    c1    SJ                                                                  
+z10   c1    SJ                                                                  
+a12   c1    SJ                                                                  
+a1    c1    SJ                                                                  
+x10   c2    SFO                                                                 
+k1    a1    SJ                                                                  
+z10   a1    SJ                                                                  
+a12   a1    SJ                                                                  
+c1    a1    SJ                                                                  
+k1    a12   SJ                                                                  
+z10   a12   SJ                                                                  
+
+CUSTI CUSTI CITY                                                                
+----- ----- ----------                                                          
+a1    a12   SJ                                                                  
+c1    a12   SJ                                                                  
+c2    x10   SFO                                                                 
+k1    z10   SJ                                                                  
+a12   z10   SJ                                                                  
+a1    z10   SJ                                                                  
+c1    z10   SJ                                                                  
+z10   k1    SJ                                                                  
+a12   k1    SJ                                                                  
+a1    k1    SJ                                                                  
+c1    k1    SJ                                                                  
+
+22 rows selected.
+
+SQL> 
+SQL> --l)
+SQL> SELECT firstname || lastname AS fullname
+  2  	 FROM Customer
+  3  	 JOIN Schedule
+  4  	 ON Customer.custid = Schedule.custid
+  5  	 JOIN DeliveryService
+  6  	 ON Schedule.serviceid = DeliveryService.serviceid
+  7  	 WHERE Customer.city = DeliveryService.location;
+
+FULLNAME                                                                        
+-------------------------                                                       
+GregKing                                                                        
+JohnSmith                                                                       
+SusanBlogg                                                                      
+
+SQL> 
+SQL> -- m)
+SQL> SELECT MIN(salary) AS min_Salary, MAX(salary) AS max_Salary
+  2  	 FROM Staff;
+
+MIN_SALARY MAX_SALARY                                                           
+---------- ----------                                                           
+         0     179700                                                           
+
+SQL> spool off

@@ -1,0 +1,16 @@
+SQL> start /home/cpaiz/COEN178/labs/lab1/data.sql
+
+1 row created.
+
+
+1 row created.
+
+SQL> SELECT * FROM test;
+
+      TNUM STR                                                                  
+---------- ----------                                                           
+         1 A test                                                               
+        10 ten                                                                  
+        11 eleven                                                               
+
+SQL> spool off

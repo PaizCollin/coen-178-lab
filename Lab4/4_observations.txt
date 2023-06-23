@@ -1,0 +1,30 @@
+Part 1:
+1.1.1) After running the query, there are 6 rows displayed.
+1.1.2) I like the INNER JOIN approach more because it gives you more control over what you are joining the two tables on. It is also more apparent later on what you joined the two tables on by just reading the query so that you don't have to go back and look at the table definitions to remember what they were joined on using a NATURAL JOIN. 
+
+1.2.1) Yes, all of the members are shown
+1.2.2) No, not all fees for all the clubs are shown
+
+1.3.1) Yes, all of the clubs are shown
+
+
+
+Part 2:
+2.1.1) Yes, there were errors when trying to insert into the AlphaCoEmp table. To fix this, we can use the DISTINCT keyword in the select statement to only choose unique last names to insert into the AlphaCoEmp table. After making this change, it was able to run, creating 419 rows.
+2.1.2) Checking the results of the AlphaCoEmp table displays the names alongside an empty title section and a salary of 0 for every entry in the table.
+
+2.2.1) The 'i' is for case-insensitive matching.
+2.2.2) There are 79 rows inserted into Emp_work.
+2.2.3) No, the deletion did not work because there is an integrity constraint violation from the Emp_work table's reference to AlphaCoEmp.
+
+2.3.1) Yes, the table was altered.
+2.3.2) Yes, the row was successfully deleted this time.
+2.3.3) by running a search query on Emp_Work where name = 'Smith', we can see that our constraint worked, as no rows were selected. 
+
+
+
+Part 3:
+3.1.1) Yes, the months are shown with fractional parts
+
+3.2.1) No, the second query does not work properly because it returns everyone, not just those who are members of a club.
+

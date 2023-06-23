@@ -1,0 +1,16 @@
+Part 1:
+1. The query outputs every empno and empname in the L_EMP table. No, the results are not correct because the two tables need to be linked together somehow to obtain the correct empNo from the L_EMP table, as the deptname from the L_DEPT.
+
+2. Yes, this query outputs the correct results because it actually links the tables together based off of their deptId
+
+3. Yes, this query outputs the correct results as well because instead of linking the tables directly, the subquery returns a single value (deptId) that the query can check against. 
+
+4. No, this query does not work because the subquery returns multiple values, so we cannot check if L_EMP.deptId equals the output from the subquery; we must instead check that by using the IN keyword.
+
+5. Yes, the query outputs the correct results because it checks if the deptId is in the subquery, not equal to the subquery.
+
+9. Yes, after adding the four new rows, the query still works properly. 
+
+Part 2:
+12. No, this query does not work because the subquery returns more than one row. The query can be fixed by using the IN keyword rather than an = operator to compare the salary to the salaries returned by the subquery. As a result of this change, there are 67 rows (salaries that match that of one of the Youngs') in the output. 
+

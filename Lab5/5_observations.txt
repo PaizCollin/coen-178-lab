@@ -1,0 +1,11 @@
+1.1) Yes, the procedure compiled without errors
+1.2) This command displays the text: "Hello include a message".
+
+2.3) This displayed the number 11, which was randomly generated between 10-100.
+
+6.4) Yes, the function worked correctly and returned 'Williams' salary.
+
+8.5) The output from this function is 17000.
+8.6) The output from the more useful query is the name Stone, the title supervisor, the currentsalary 800000 and the newsalary 817000.
+
+10.7) The count for the title 'advisor' is 29.

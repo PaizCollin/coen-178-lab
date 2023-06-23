@@ -1,0 +1,19 @@
+1.1) Yes, the trigger worked and displayed the correct information as it was inserted into the table
+
+2.2) Yes, the trigger worked; I checked the trigger by selecting all from the totals_6 table and ensuring that the information inserted into accounts_6 also effected totals_6. 
+
+2.3) The total amount for customer C1 is 7000.
+
+2.4) Yes, this total agrees with the data from the accounts_6 table, which has 2000 for C1's checking account and 5000 for C1's savings account.
+
+3.5) The total amount for customer C1 is still 7000.
+
+3.6) No, the amount in Totals_6 is still 7000, while Amounts_6 shows 1000 and 5000 for the checkings and savings accounts, respectively, which only totals 6000. 
+
+4.7) The total amount for customer C1 is 7000.
+
+4.8) After the update, the total amount for customer C1 is now 6000. 
+
+4.9) Yes, the amount of 6000 in the Totals_6 table for C1 agrees with the summation of the two values 1000 and 5000 in the accounts_6 table for C1.
+
+5.10) The result of this update is an error telling us that we cannot update a primary key. The custno is not updated.

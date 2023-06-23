@@ -1,0 +1,7 @@
+SQL> CREATE table Staff (Last VARCHAR(20), First VARCHAR(20), salary NUMBER(10,2), title VARCHAR(60));
+
+Table created.
+
+SQL> host ls
+
+SQL> spool off

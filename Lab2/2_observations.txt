@@ -1,0 +1,10 @@
+Part 1:
+1a) No, not every tuple was inserted successfully. Because the Schedule table has two foreign keys (serviceid from DeliverService and custid from Customer), the fifth tuple cannot be inserted because it has the same two values for these foreign keys as the fourth tuple. 
+
+1b) No, this extra tuple was not inserted successfully into the Schedule table. This is because that tuple uses the value 's' which does not fit the constraint we declared for the day value. 
+
+Part 2:
+h) No, this query does not work because it does not link the two tables together via the custid. 
+
+i) The data is coming from the Customer table
+

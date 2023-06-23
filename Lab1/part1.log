@@ -1,0 +1,90 @@
+SQL> prompt
+
+SQL> CREATE TABLE trial (
+  2  tnum int,
+  3  str char(10)
+  4  );
+
+Table created.
+
+SQL> INSERT INTO trial VALUES (1,'A test');
+
+1 row created.
+
+SQL> INSERT INTO trial VALUES (2, 'test2');
+
+1 row created.
+
+SQL> INSERT INTO trial VALUES (3, 'test3');
+
+1 row created.
+
+SQL> SELECT * FROM trial
+  2  ;
+
+      TNUM STR                                                                  
+---------- ----------                                                           
+         1 A test                                                               
+         2 test2                                                                
+         3 test3                                                                
+
+SQL> SELECT tnum FROM trial;
+
+      TNUM                                                                      
+----------                                                                      
+         1                                                                      
+         2                                                                      
+         3                                                                      
+
+SQL> INSERT INTO trial VALUES (1, 'A test');
+
+1 row created.
+
+SQL> SELECT * FROM trial;
+
+      TNUM STR                                                                  
+---------- ----------                                                           
+         1 A test                                                               
+         2 test2                                                                
+         3 test3                                                                
+         1 A test                                                               
+
+SQL> CREATE TABLE test (
+  2  tnum int,
+  3  str char(10),
+  4  PRIMARY KEY(tnum)
+  5  );
+
+Table created.
+
+SQL> INSERT INTO test VALUES (1, 'A test');
+
+1 row created.
+
+SQL> INSERT INTO test VALUES (1, 'A test');
+INSERT INTO test VALUES (1, 'A test')
+*
+ERROR at line 1:
+ORA-00001: unique constraint (CPAIZ.SYS_C00960977) violated 
+
+
+SQL> SELECT TABLE_NAME
+  2  FROM USER_TABLES;
+
+TABLE_NAME                                                                      
+------------------------------                                                  
+TRIAL                                                                           
+TEST                                                                            
+
+SQL> DROP TABLE trial;
+
+Table dropped.
+
+SQL> SELECT TABLE_NAME
+  2  FROM USER_TABLES;
+
+TABLE_NAME                                                                      
+------------------------------                                                  
+TEST                                                                            
+
+SQL> spool off

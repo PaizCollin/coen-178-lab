@@ -1,0 +1,10 @@
+Part 1:
+1. Yes, the message notifying me that the table was created came up (shown in part1.log)
+2. Yes, all of the tuples that I entered showed up in the table.
+3. Yes, I was able to create a duplicate tuple
+1. No, I was unable to create a duplicate tuple
+5. Yes, both tables, trial and test are there
+6. After dropping the trial table, running the "SELECT TABLE_NAME FROM USER_TABLES;" command only showed the test table
+
+Part 3:
+1. 452 rows are received from the table
